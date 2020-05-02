@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MMZ Tractor Export ",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -63,7 +63,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Tractors &amp; Diggers Limited",
+        "title": "MMZ Tractor Export",
         "meta_descr": "IRISH BOAT SALES",
         "header_custom": "",
         "footer_custom": "",
